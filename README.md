@@ -76,6 +76,7 @@ Below is an ever-expanding list of missing datasets. Contributions are extra wel
 - Firm statistics on how often police arrest women for making false rape reports 
 - Caucasian children adopted by parents of color
 - Total number of local and state police departments using stingray phone trackers (IMSI-catchers)
+- Laid off employees by age and state (US)
 
 
 ----
